@@ -8,10 +8,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Vitor Gabriel Silva Borges
+- Matricula:1519609
+- Proposta de projeto escolhida:Home page
+- Breve descrição sobre seu projeto:pagina simples de uma home page 
 
 
 ## Print do esboço criada
